@@ -11,3 +11,8 @@ function isPrime(n) {
   }
   return true;
 }
+
+
+// O(n) it is a linear run time complexity. There is a condition and it takes
+// constant time to check the condition. But the function has a loop and it iterates 
+// through the loop for each item  so it is a linear run time complexity.

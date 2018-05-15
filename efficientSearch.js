@@ -21,3 +21,6 @@ function efficientSearch(array, item) {
   }
   return -1;
 }
+
+// O(log n) It is a logarithmic run time complexity. Since
+// the size of array is cut in half each iteration will be slow. 

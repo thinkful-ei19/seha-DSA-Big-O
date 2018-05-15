@@ -24,3 +24,6 @@ function generateFib(num) {
   // we return `result`.
   return result;
 }
+
+//O(n) It is a linear run time complexity. If we increase the num the run time complexity
+// will increase at the same rate.
